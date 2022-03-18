@@ -70,3 +70,8 @@ class user extends Lsz\Controller\LszController_Abstract {
 
 访问方法
 http://xxxxxxxx/控制器名/方法名（不带Action）
+
+例子 : http://xxxxxxx/user/del
+       http://xxxxxxx/user/add
+       http://xxxxxxx/user/
+       http://xxxxxxx/user/update
